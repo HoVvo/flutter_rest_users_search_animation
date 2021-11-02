@@ -1,4 +1,4 @@
-# flutter_search_users
+# Example of Flutter Rest Users, Search and Animation 
 
 A new Flutter project.
 
