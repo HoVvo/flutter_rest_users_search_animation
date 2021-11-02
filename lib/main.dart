@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
       ],
       child: MaterialApp(
         debugShowCheckedModeBanner: false,
-        title: 'Flutter Photos',
+        title: 'Flutter Users',
         theme: ThemeData(
           brightness: Brightness.dark,
         ),
